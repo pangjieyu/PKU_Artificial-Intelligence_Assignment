@@ -11,7 +11,7 @@ To familiarize yourself with which you have learned for reinforcement learning.
 The assignment is due at December 7, 2020 at 08:00am. Note that it is a DEADLINE. You will grade as zero if you return your writeup and code after the deadline unless you have good reasons and let me now in advance.
 
 # Assignment 1
-  Check out the instructions in [Homework_1_RL](Homework_1_RL.docx).docx for details.
+  Check out the instructions in [Homework_1_RL](Homework_1_RL.docx) for details.
 
 # Instructions 
 
