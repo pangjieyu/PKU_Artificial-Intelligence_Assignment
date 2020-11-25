@@ -27,7 +27,7 @@ The assignment is due at December 7, 2020 at 08:00am. Note that it is a DEADLINE
 
 # How to submit 
 
-- Send an email (yalucheng@stu.pku.edu.cn), with the title AI_homework_1_X_Y
+- Send an email (Class 3 to yalucheng@stu.pku.edu.cn AND Class 4 to Qian.Ren @pku.edu.cn), with the title AI_homework_1_X_Y
 
   - where AI is the shortage for artificial intelligence; 
   - X is your name in Chinese; 
